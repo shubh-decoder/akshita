@@ -1,0 +1,51 @@
+{
+  "speakers": [{
+    "title" : "With herself",
+    "name": "Akshita Tiwari",
+    "shortname" : "Akshay_Kumar",
+    "summary" : "Akshita With herself is the most amazing girl on the planet to have her.She is best when she act as herself.Akshita herself called as a sensitive person and the emotional one too and she applies the condition of her liking as well.she has been very wonderful and try to improve herself at all account.",
+    "description": "<p>Akshita Tiwari was born with a beautiful heart but she grew up with sophiscated yet effective decision making algo's.As a person she provides you best company if she is enjoying yours once.....Akshita With herself is the most amazing girl on the planet to have her.She is best when she act as herself.Akshita herself called as a sensitive person and the emotional one too and she applies the condition of her liking as well.she has been very wonderful and try to improve herself at all account.</p>",
+    "artwork": ["Akshay_Kumar_01_tn.jpg","Akshay_Kumar_02_tn.jpg","Akshay_Kumar_03_tn.jpg", "Akshay_Kumar_04_tn.jpg", "Akshay_Kumar_05_tn.jpg", "Akshay_Kumar_06_tn.jpg","Akshay_Kumar_07_tn.jpg","Akshay_Kumar_08_tn.jpg","Akshay_Kumar_09_tn.jpg"]
+  },{
+    "title" : "With Family",
+    "name": "Akshita Tiwari",
+    "shortname" : "Akshay_Family",
+    "summary": "Akshita With Family can be regard as a most lovable and 'go-to' character in the Family,everyone in her Family admires her and she FILLS THE SHOES WELL",
+    "description": "<p>Akshita Tiwari was born with four siblings having one elder sister and younger sister and brother.She is very close to her elder sister and admires her as her PathMaker and provides constant assistance to her younger brother and sister.She also have lovely parents and she respect them dearly.Akshita With Family can be regard as a most lovable and 'go-to' character in the Family,everyone in her Family admires her and she FILLS THE SHOES WELL...</p>",    
+    "artwork" : ["Akshay_Family_01_tn.jpg" , "Akshay_Family_02_tn.jpg" , "Akshay_Family_03_tn.jpg" , "Akshay_Family_04_tn.jpg" , "Akshay_Family_05_tn.jpg" , "Akshay_Family_06_tn.jpg"]
+  },{
+    "title" : "With Friends",
+    "name": "Akshita Tiwari",
+    "shortname" : "Akshay_Friends",
+    "summary": "Akshita doesn't believe in make it large when comes to making friends.She is very selective at making friends but she always offer warm welcome to anyone who talks to her.",
+    "description": "<p>Akshita has got good bunch of guys with her and she enjoys their company as well.She has a peculiar way of talking which easily attracts others.She has a pleasant voice which makes others her active listener.Moreover,her colossal attitude urges others to be like her.She's harsh on certain fields where she feel good.Her friends addresses her as 'beauty with mind' and she knows this better.Akshita With the Friends is very easy.One considered as a friend of her should be considered himself lucky...LOL</p>",
+    "artwork" : ["Akshay_Friends_01_tn.jpg","Akshay_Friends_02_tn.jpg","Akshay_Friends_03_tn.jpg","Akshay_Friends_04_tn.jpg","Akshay_Friends_05_tn.jpg"]
+  }],
+
+  "social" : [{
+    "shortname" : "twitter",
+    "img" : "/images/socialmedia/twitter.png",
+    "url" : "http://www.twitter.com/shubham singh"
+  },{
+    "shortname" : "facebook",
+    "img" : "/images/socialmedia/facebook.png",
+    "url" : "http://www.facebook.com/shubham diezel"
+  },{
+    "shortname" : "meetup",
+    "img" : "/images/socialmedia/meetup.png",
+    "url" : "http://www.meetup.com/shubham singh/"
+  }],
+  "Author" :{
+        "img": "/images/misc/Author_tn.jpg"
+  },
+  
+  "meeting" : {
+    "date": "every day on the earth",
+    "time": "any time",
+    "where": {
+      "name": "online",
+      "img": "/images/misc/shubham_singh_tn.jpg",
+      "address": "ss120636@gmail.com"
+    }
+  }
+}
